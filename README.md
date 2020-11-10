@@ -1,0 +1,2 @@
+# vowel-eliminator
+Scenario  The continue statement is used to skip the current block and move ahead to the next iteration, without executing the statements inside the loop.  It can be used with both the while and for loops.  Your task here is very special: you must design a vowel eater! Write a program that uses:      a for loop;     the concept of conditional execution (if-elif-else)     the continue statement.
